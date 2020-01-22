@@ -68,6 +68,6 @@
         </config-file>
 	    	<source-file src="libs/nv-2.12.0.aar" target-dir="libs" />
 		<source-file src="libs/nv-2.12.0.pom" target-dir="libs" />
-		<framework src="./custom.gradle" custom="true" type="gradleReference" />
+		
     </platform>
 </plugin>
