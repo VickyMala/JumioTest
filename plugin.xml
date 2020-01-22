@@ -68,6 +68,8 @@
         </config-file>
 	    	<source-file src="libs/nv-2.12.0.aar" target-dir="libs" />
 		<source-file src="libs/nv-2.12.0.pom" target-dir="libs" />
+	    <source-file src="src/android/JumioMobileSDK.java" target-dir="src/com/jumio/mobilesdk" />
+		
 		
     </platform>
 </plugin>
